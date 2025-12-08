@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "DAY×DAY",
+  "base_artist": "BLUE ENCOUNT",
+  "createdAt": "2025-12-08T13:23:56.298301Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "All Day Day Light",
+      "artist": "POP ETC",
+      "has_synced": true,
+      "path": "select/01_All_Day_Day_Light_POP_ETC.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "All Day Day Light",
+      "artist": "The Morning Benders",
+      "has_synced": true,
+      "path": "select/02_All_Day_Day_Light_The_Morning_Benders.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "DAY×DAY",
+      "artist": "BLUE ENCOUNT",
+      "has_synced": true,
+      "path": "select/03_DAY×DAY_BLUE_ENCOUNT.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "DAY×DAY",
+      "artist": "BLUE ENCOUNT",
+      "has_synced": true,
+      "path": "select/04_DAY×DAY_BLUE_ENCOUNT.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Light of Day, Day of Darkness",
+      "artist": "Green Carnation",
+      "has_synced": true,
+      "path": "select/05_Light_of_Day,_Day_of_Darkness_Green_Carnation.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Genki Zenkai Day!Day!Day! (Remix)",
+      "artist": "CYaRon!",
+      "has_synced": true,
+      "path": "select/06_Genki_Zenkai_Day!Day!Day!_(Remix)_CYaRon!.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "GENKI ZENKAI DAY!DAY!DAY! REMIX　Remixed by DJ KIRA",
+      "artist": "CYaRon!",
+      "has_synced": true,
+      "path": "select/07_GENKI_ZENKAI_DAY!DAY!DAY!_REMIX_Remixed_by_DJ_KIRA_CYaRon!.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "GENKI ZENKAI DAY! DAY! DAY! (Remix)",
+      "artist": "CYaRon!",
+      "has_synced": true,
+      "path": "select/08_GENKI_ZENKAI_DAY!_DAY!_DAY!_(Remix)_CYaRon!.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Day / Day",
+      "artist": "Angelmaker",
+      "has_synced": true,
+      "path": "select/09_Day___Day_Angelmaker.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "DAY×DAY",
+      "artist": "BLUE ENCOUNT",
+      "has_synced": true,
+      "path": "select/10_DAY×DAY_BLUE_ENCOUNT.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "DAY×DAY (Instrumental)",
+      "artist": "BLUE ENCOUNT",
+      "has_synced": true,
+      "path": "select/11_DAY×DAY_(Instrumental)_BLUE_ENCOUNT.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "DAY×DAY (TV size)",
+      "artist": "BLUE ENCOUNT",
+      "has_synced": true,
+      "path": "select/12_DAY×DAY_(TV_size)_BLUE_ENCOUNT.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "DAY×DAY (Instrumental／TV Size)",
+      "artist": "BLUE ENCOUNT",
+      "has_synced": true,
+      "path": "select/13_DAY×DAY_(Instrumental_TV_Size)_BLUE_ENCOUNT.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Light of Day, Day of Darkness (extract)",
+      "artist": "Green Carnation",
+      "has_synced": false,
+      "path": "select/14_Light_of_Day,_Day_of_Darkness_(extract)_Green_Carnation.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Light of Day, Day of Darkness (live in Kristiansand)",
+      "artist": "Green Carnation",
+      "has_synced": false,
+      "path": "select/15_Light_of_Day,_Day_of_Darkness_(live_in_Kristiansand)_Green_Carnation.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Day Day (feat. Jay Park)",
+      "artist": "Bewhy",
+      "has_synced": true,
+      "path": "select/16_Day_Day_(feat._Jay_Park)_Bewhy.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "니가 알던 내가 아냐 Who You (Remix) (feat. Day Day, Loco & Simon Dominic)",
+      "artist": "Jay Park",
+      "has_synced": false,
+      "path": "select/17_니가_알던_내가_아냐_Who_You_(Remix)_(feat._Day_Day,_Loco_&_Simon_Dominic)_Jay_Park.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "DAY×DAY",
+      "artist": "BLUE ENCOUNT",
+      "has_synced": false,
+      "path": "select/pl_01_DAY×DAY_BLUE_ENCOUNT.txt"
+    }
+  ]
+}
